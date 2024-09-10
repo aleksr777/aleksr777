@@ -47,8 +47,7 @@
 - **Описание**: 
 Проект создан просто для развлечения.
 Немного поэкспериментировал с CSS-анимацией и с адаптивной вёрсткой по тематике "Звёздных войн".
-В проекте использовались только HTML и CSS.
-- **Технологии**: [CSS, HTML, GIT, Webpack, Babel, Node.js, React, React-Dom, React-Router-Dom, Jest, Cypress]
+- **Технологии**: [CSS, HTML]
 - **Ссылка: [https://aleksr777.github.io/CSS-animation-star-wars/](https://aleksr777.github.io/CSS-animation-star-wars/)**
 
 
