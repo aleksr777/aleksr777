@@ -27,7 +27,7 @@
 ### Проект: "Mesto"
 - **Описание**: 
 В этом учебном проекте реализованы простые задачи: добавление и удаление карточек, ставить "like", плавное открытие и закрытие popup-окон, редактирование данных пользователя, проверка валидности полей ввода в формах через JavaScript, взаимодействие с сервером.]
-**Технологии**: [CSS, HTML, GIT, JavaScript, Webpack, Babel.
+- **Технологии**: [CSS, HTML, GIT, JavaScript, Webpack, Babel.
 - **Ссылка: [https://github.com/aleksr777/mesto-project?tab=readme-ov-file](https://github.com/aleksr777/mesto-project?tab=readme-ov-file)**
 
 ### Проект: "React-burger"
