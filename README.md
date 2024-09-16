@@ -9,9 +9,8 @@
 - **Опыт**: Прошел обучение в Yandex Practicum, где работал над различными проектами, от одностраничных приложений до комплексных интерактивных интерфейсов.
 
 ### 🔗 Связь со мной
-- **Email**: [aleksr-p@mail.ru]
-- **Telegram**: [https://t.me/aleksr777we32we23]
-- **VK**: [https://vk.com/id141295940]
+- **Email**: [@mail.ru]
+- **Telegram**: [https://t.me/]
 ---
 
 ## 🛠️ Стек технологий: HTML, CSS, GIT, JavaScript, TypeScript, Babel, GIT, React, Middleware, Websocket, Jest, Cypress, Node.js, Nest, Docker.
